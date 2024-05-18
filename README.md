@@ -1,10 +1,10 @@
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝗢𝗫𝗬𝗚𝗘𝗡+𝐗𝐃+🖤+🥀"></b></h3>
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡𝗫𝗗+𝐗𝐃+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
 </p>
 
-[<img src="https://graph.org/file/ae522353ddffb830dd83e.jpg"/>](https://github.com/CHALCOGEN645)
+[<img src="https://telegra.ph/file/c8feb585b6b277f9242c6.jpg" />](https://github.com/CHALCOGEN645)
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=CHALCOGEN645&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=CHALCOGEN645&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/CHALCOGEN645)
