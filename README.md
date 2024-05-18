@@ -1,4 +1,4 @@
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡𝗫𝗗+𝐗𝐃+🖤+🥀"></b></h3>
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡𝗫𝗗+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
