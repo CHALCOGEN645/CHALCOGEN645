@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
+    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
 </p>
 
 <h1 align="left">💫 About Me: </h1>
