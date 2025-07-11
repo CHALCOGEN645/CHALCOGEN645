@@ -3,9 +3,9 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐎𝐔𝐑+𝐆𝐈𝐓𝐇𝐔𝐁+𝐀𝐂𝐂𝐎𝐔𝐍𝐓+.+.+.+.+.;🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡+𝐗𝐃+🖤+🥀;💓+𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄+🌲+❗️"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+  <!-- 👁 Visitor Counter -->
 <p align="center">
-  <b>ᴠɪsɪᴛᴏʀs</b><br>
-    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
 </p>
 
 <h1 align="left">💫 About Me: </h1>
