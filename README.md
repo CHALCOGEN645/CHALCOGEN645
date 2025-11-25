@@ -56,12 +56,12 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://github.com/CertifiedCoders/xbit">
+      <a href="https://github.com/chalcogen645/xbit">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=xbit&theme=dracula&hide_border=true" alt="xbit Project" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/CertifiedCoders/shruti">
+      <a href="https://github.com/chalcogen645/shruti">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=Shruti&theme=dracula&hide_border=true" alt="shruti Project" />
       </a>
     </td>
