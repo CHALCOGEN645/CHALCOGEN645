@@ -57,12 +57,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/CertifiedCoders/AnnieXMusic">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CertifiedCoders&repo=AnnieXMusic&theme=dracula&hide_border=true" alt="AnnieXMusic Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=xbit&theme=dracula&hide_border=true" alt="AnnieXMusic Project" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/CertifiedCoders/TuneviaBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CertifiedCoders&repo=TuneviaBot&theme=dracula&hide_border=true" alt="TuneviaBot Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=Shruti&theme=dracula&hide_border=true" alt="TuneviaBot Project" />
       </a>
     </td>
   </tr>
