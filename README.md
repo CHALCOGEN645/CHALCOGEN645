@@ -56,13 +56,13 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://github.com/CertifiedCoders/AnnieXMusic">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=xbit&theme=dracula&hide_border=true" alt="AnnieXMusic Project" />
+      <a href="https://github.com/CertifiedCoders/xbit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=xbit&theme=dracula&hide_border=true" alt="xbit Project" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/CertifiedCoders/TuneviaBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=Shruti&theme=dracula&hide_border=true" alt="TuneviaBot Project" />
+      <a href="https://github.com/CertifiedCoders/shruti">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=Shruti&theme=dracula&hide_border=true" alt="shruti Project" />
       </a>
     </td>
   </tr>
