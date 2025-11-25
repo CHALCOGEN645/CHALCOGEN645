@@ -19,8 +19,8 @@
 <h1 align="left">🌐 Socials Contact: </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([(https://www.instagram.com/snehilaniketofficial?igsh=NHgxZjkzcWw2emlr)])
-[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/c7gen) 
-[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/flex_proxxy) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/viscxd) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/viscty) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23F05033.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chalcogen18@gmail.com) 
 
 # 💻 Tech Stack:
