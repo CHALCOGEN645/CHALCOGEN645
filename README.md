@@ -29,13 +29,13 @@
 <!-- ==================== 6. GitHub Stats (Compact & Clean) ==================== -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CertifiedCoders&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viscity&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=CertifiedCoders&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=viscity&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" alt="GitHub Streak" />
     </td>
     <td width="50%">
       <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=CertifiedCoders&theme=dracula" alt="Profile Summary Card" />
@@ -43,10 +43,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CertifiedCoders&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=viscity&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CertifiedCoders&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      <img src="" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -56,13 +56,13 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://github.com/chalcogen645/xbit">
+      <a href="https://github.com/viscity/xbit">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=xbit&theme=dracula&hide_border=true" alt="xbit Project" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/chalcogen645/shruti">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=Shruti&theme=dracula&hide_border=true" alt="shruti Project" />
+      <a href="https://github.com/viscity/viscosity">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viscity&repo=viscosity &theme=dracula&hide_border=true" alt="viscosity Project" />
       </a>
     </td>
   </tr>
