@@ -38,7 +38,7 @@
       <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=viscity&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" alt="GitHub Streak" />
     </td>
     <td width="50%">
-      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=CertifiedCoders&theme=dracula" alt="Profile Summary Card" />
+      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=viscity&theme=dracula" alt="Profile Summary Card" />
     </td>
   </tr>
   <tr>
