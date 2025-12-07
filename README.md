@@ -5,7 +5,7 @@
 
   <!-- 👁 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chalcogen645&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
 </p>
 
 <h1 align="left">💫 About Me: </h1>
