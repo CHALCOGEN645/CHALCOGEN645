@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/ce761a116007e2742b3e8.jpg" width="80px" height="70%">
    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+𝑾𝑬𝑳𝑪𝑶𝑴𝑬+𝑻𝑶+𝑶𝑼𝑹+𝑮𝑰𝑻𝑯𝑼𝑩+𝑨𝑪𝑪𝑶𝑼𝑵𝑻+.+.+.+.+.;🦋+𝑯𝑬𝑳𝑳𝑶+𝑭𝑹𝑰𝑬𝑵𝑫+𝑽𝑰𝑺𝑪𝑶𝑺𝑰𝑻𝒀+𝑻𝑯𝑰𝑺+𝑺𝑰𝑫𝑬+🖤+🥀;💓+𝑻𝑯𝑨𝑵𝑲𝒀𝑶𝑼+𝑭𝑶𝑹+𝑽𝑰𝑺𝑰𝑻𝑰𝑵𝑮+𝑶𝑼𝑹+𝑨𝑪𝑪𝑶𝑼𝑵𝑻+𝑯𝑨𝑽𝑬+𝑨+𝑵𝑰𝑪𝑬+𝑫𝑨𝒀+𝑨𝑯𝑬𝑨𝑫+🌲+❗️"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
