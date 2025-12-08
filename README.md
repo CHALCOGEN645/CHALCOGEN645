@@ -55,7 +55,7 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/viscity/xbit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chalcogen645&repo=xbit&theme=dracula&hide_border=true" alt="xbit Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viscity&repo=xbit&theme=dracula&hide_border=true" alt="xbit Project" />
       </a>
     </td>
     <td width="50%">
