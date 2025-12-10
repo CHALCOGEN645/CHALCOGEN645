@@ -18,7 +18,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([(https://www.instagram.com/snehilaniketofficial?igsh=NHgxZjkzcWw2emlr)])
 [![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/viscxd) 
-[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/viscty) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/viscity) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23F05033.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chalcogen18@gmail.com) 
 
 # 💻 Tech Stack:
@@ -54,13 +54,13 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://github.com/viscity/xbit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viscity&repo=xbit&theme=dracula&hide_border=true" alt="xbit Project" />
+      <a href="https://github.com/viscity/api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viscity&repo=api&theme=dracula&hide_border=true" alt="api Project" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/viscity/viscosity">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viscity&repo=viscosity &theme=dracula&hide_border=true" alt="viscosity Project" />
+      <a href="https://github.com/viscity/cookies">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viscity&repo=cookkies&theme=dracula&hide_border=true" alt="cookies Project" />
       </a>
     </td>
   </tr>
