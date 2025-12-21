@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="left">💫 About Me: </h1>
-<img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/CHALCOGEN645/CHALCOGEN645/blob/main/Robo.webp"/>
+<img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/viscity/viscosity/blob/main/Robo.webp"/>
 <br/>
 - 🔭 I’m currently working on Telegram Bots.<br>
 - 👯 All my public projects are easily accessible here.<br>
@@ -47,24 +47,24 @@
 <!-- ==================== 6. GitHub Stats (Compact & Clean) ==================== -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CertifiedCoders&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viscity&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=CertifiedCoders&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=viscity&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" alt="GitHub Streak" />
     </td>
     <td width="50%">
-      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=CertifiedCoders&theme=dracula" alt="Profile Summary Card" />
+      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=viscity&theme=dracula" alt="Profile Summary Card" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=CertifiedCoders&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=viscity&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CertifiedCoders&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viscity&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
