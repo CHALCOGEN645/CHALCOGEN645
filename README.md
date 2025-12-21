@@ -60,7 +60,7 @@
     </td>
     <td width="50%">
       <a href="https://github.com/viscity/cookies">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viscity&repo=cookkies&theme=dracula&hide_border=true" alt="cookies Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=viscity&repo=cookies&theme=dracula&hide_border=true" alt="cookies Project" />
       </a>
     </td>
   </tr>
@@ -69,6 +69,6 @@
 <!-- ==================== 8. GitHub Trophies ==================== -->
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CertifiedCoders&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viscity&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
