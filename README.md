@@ -2,10 +2,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <!-- 👁 Visitor Counter -->
-<p align="center">
-  <b>Visitors</b><br>
-  <img src="https://profile-counter.deno.dev/certifiedcoders/count.svg" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square&color=bd83b8" alt="Profile views" />
+</div>
+
 
 <h1 align="left">💫 About Me: </h1>
 <img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/viscity/viscosity/blob/main/Robo.webp"/>
