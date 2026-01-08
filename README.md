@@ -3,7 +3,8 @@
 
   <!-- 👁 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
+  <b>Visitors</b><br>
+  <img src="https://profile-counter.deno.dev/certifiedcoders/count.svg" />
 </p>
 
 <h1 align="left">💫 About Me: </h1>
