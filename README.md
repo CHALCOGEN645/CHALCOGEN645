@@ -46,28 +46,3 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-<!-- ==================== 6. GitHub Stats (Compact & Clean) ==================== -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viscity&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=viscity&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" alt="GitHub Streak" />
-    </td>
-    <td width="50%">
-      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=viscity&theme=dracula" alt="Profile Summary Card" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=viscity&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viscity&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
